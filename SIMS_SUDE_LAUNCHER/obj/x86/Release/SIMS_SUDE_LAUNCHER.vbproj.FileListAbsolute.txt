@@ -1,0 +1,13 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\bin\Release\SIMS_SUDE_LAUNCHER.exe.manifest
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\bin\Release\SIMS_SUDE_LAUNCHER.application
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\bin\Release\SIMS_SUDE_LAUNCHER.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\bin\Release\SIMS_SUDE_LAUNCHER.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\bin\Release\SIMS_SUDE_LAUNCHER.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\obj\x86\Release\SIMS_SUDE_LAUNCHER.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\obj\x86\Release\SIMS_SUDE_LAUNCHER.vbproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\obj\x86\Release\SIMS_SUDE_LAUNCHER.exe.manifest
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\obj\x86\Release\SIMS_SUDE_LAUNCHER.application
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\obj\x86\Release\SIMS_SUDE_LAUNCHER.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\obj\x86\Release\SIMS_SUDE_LAUNCHER.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\obj\x86\Release\SIMS_SUDE_LAUNCHER.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\SIMS_SUDE_LAUNCHER\SIMS_SUDE_LAUNCHER\obj\x86\Release\SIMS_SUDE_LAUNCHER.Launcher.resources

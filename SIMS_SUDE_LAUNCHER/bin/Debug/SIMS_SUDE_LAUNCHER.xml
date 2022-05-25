@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SIMS_SUDE_LAUNCHER
+</name>
+</assembly>
+<members>
+<member name="P:SIMS_SUDE_LAUNCHER.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SIMS_SUDE_LAUNCHER.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SIMS_SUDE_LAUNCHER.My.Resources.Resources.Sims1_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIMS_SUDE_LAUNCHER.My.Resources.Resources.Sims2_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIMS_SUDE_LAUNCHER.My.Resources.Resources.Sims3_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIMS_SUDE_LAUNCHER.My.Resources.Resources.Sims4_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SIMS_SUDE_LAUNCHER.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
