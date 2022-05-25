@@ -43,6 +43,7 @@ Partial Class Launcher
         Me.Sims2_Logo = New System.Windows.Forms.PictureBox()
         Me.Sims1_Logo = New System.Windows.Forms.PictureBox()
         Me.Button_DLC_Toggler_Sims3 = New System.Windows.Forms.Button()
+        Me.CheckBox_Launcher_Sims2 = New System.Windows.Forms.CheckBox()
         Me.GroupBox_Sims1.SuspendLayout()
         Me.GroupBox_Sims2.SuspendLayout()
         Me.GroupBox_Sims3.SuspendLayout()
@@ -84,6 +85,7 @@ Partial Class Launcher
         '
         'GroupBox_Sims2
         '
+        Me.GroupBox_Sims2.Controls.Add(Me.CheckBox_Launcher_Sims2)
         Me.GroupBox_Sims2.Controls.Add(Me.Label_Version_Sims2)
         Me.GroupBox_Sims2.Controls.Add(Me.Button_Play_Sims2)
         Me.GroupBox_Sims2.Location = New System.Drawing.Point(218, 123)
@@ -104,7 +106,7 @@ Partial Class Launcher
         '
         'Button_Play_Sims2
         '
-        Me.Button_Play_Sims2.Location = New System.Drawing.Point(63, 19)
+        Me.Button_Play_Sims2.Location = New System.Drawing.Point(6, 21)
         Me.Button_Play_Sims2.Name = "Button_Play_Sims2"
         Me.Button_Play_Sims2.Size = New System.Drawing.Size(75, 23)
         Me.Button_Play_Sims2.TabIndex = 2
@@ -128,7 +130,7 @@ Partial Class Launcher
         Me.CheckBox_Launcher_Sims3.AutoSize = True
         Me.CheckBox_Launcher_Sims3.Checked = True
         Me.CheckBox_Launcher_Sims3.CheckState = System.Windows.Forms.CheckState.Checked
-        Me.CheckBox_Launcher_Sims3.Location = New System.Drawing.Point(90, 21)
+        Me.CheckBox_Launcher_Sims3.Location = New System.Drawing.Point(101, 25)
         Me.CheckBox_Launcher_Sims3.Name = "CheckBox_Launcher_Sims3"
         Me.CheckBox_Launcher_Sims3.Size = New System.Drawing.Size(93, 17)
         Me.CheckBox_Launcher_Sims3.TabIndex = 4
@@ -146,7 +148,7 @@ Partial Class Launcher
         '
         'Button_Play_Sims3
         '
-        Me.Button_Play_Sims3.Location = New System.Drawing.Point(9, 17)
+        Me.Button_Play_Sims3.Location = New System.Drawing.Point(6, 21)
         Me.Button_Play_Sims3.Name = "Button_Play_Sims3"
         Me.Button_Play_Sims3.Size = New System.Drawing.Size(75, 23)
         Me.Button_Play_Sims3.TabIndex = 2
@@ -250,6 +252,18 @@ Partial Class Launcher
         Me.Button_DLC_Toggler_Sims3.Text = "DLC Toggler"
         Me.Button_DLC_Toggler_Sims3.UseVisualStyleBackColor = True
         '
+        'CheckBox_Launcher_Sims2
+        '
+        Me.CheckBox_Launcher_Sims2.AutoSize = True
+        Me.CheckBox_Launcher_Sims2.Checked = True
+        Me.CheckBox_Launcher_Sims2.CheckState = System.Windows.Forms.CheckState.Checked
+        Me.CheckBox_Launcher_Sims2.Location = New System.Drawing.Point(101, 25)
+        Me.CheckBox_Launcher_Sims2.Name = "CheckBox_Launcher_Sims2"
+        Me.CheckBox_Launcher_Sims2.Size = New System.Drawing.Size(93, 17)
+        Me.CheckBox_Launcher_Sims2.TabIndex = 4
+        Me.CheckBox_Launcher_Sims2.Text = "Use Launcher"
+        Me.CheckBox_Launcher_Sims2.UseVisualStyleBackColor = True
+        '
         'Launcher
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -309,5 +323,6 @@ Partial Class Launcher
     Friend WithEvents Label_createdby As System.Windows.Forms.Label
     Friend WithEvents CheckBox_Launcher_Sims3 As System.Windows.Forms.CheckBox
     Friend WithEvents Button_DLC_Toggler_Sims3 As System.Windows.Forms.Button
+    Friend WithEvents CheckBox_Launcher_Sims2 As System.Windows.Forms.CheckBox
 
 End Class
