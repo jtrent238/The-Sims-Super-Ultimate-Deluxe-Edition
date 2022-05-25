@@ -12,7 +12,7 @@
 
     Private Sub Button_Play_Sims2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button_Play_Sims2.Click
         Dim p As New Process()
-        p.StartInfo.FileName = ".\Sims 2 Ultimate Collection\The Sims 2\TSBin\Sims2.exe"
+        p.StartInfo.FileName = ".\The Sims 2\The Sims 2\TSBin\Sims2.exe"
         p.Start()
     End Sub
 
